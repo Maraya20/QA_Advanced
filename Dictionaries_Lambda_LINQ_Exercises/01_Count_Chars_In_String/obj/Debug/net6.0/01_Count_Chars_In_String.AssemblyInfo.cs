@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01_Count_Chars_In_String")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+205d3d7c408247143bc93a529191fbd1a056cb1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f31ebc4c4cf27f638ae7a8b3388e09f66645e6bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("01_Count_Chars_In_String")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01_Count_Chars_In_String")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
