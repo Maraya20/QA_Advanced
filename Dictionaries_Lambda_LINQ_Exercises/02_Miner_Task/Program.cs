@@ -1,10 +1,24 @@
-﻿namespace _02_Miner_Task
+﻿string resource = Console.ReadLine();
+
+Dictionary<string, int> mineDict = new();
+
+while (resource != "stop")
 {
-    internal class Program
+    int quantity = int.Parse(Console.ReadLine());
+
+    if (!mineDict.ContainsKey(resource))
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        mineDict.Add(resource, quantity);
     }
+    else
+    {
+        mineDict[resource] += quantity;
+    }
+
+    resource = Console.ReadLine();
+}
+
+foreach (var kvp in mineDict)
+{
+    Console.WriteLine($"{kvp.Key} -> {kvp.Value}");
 }

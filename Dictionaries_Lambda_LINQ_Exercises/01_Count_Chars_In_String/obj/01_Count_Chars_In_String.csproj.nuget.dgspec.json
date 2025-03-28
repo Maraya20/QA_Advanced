@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maraya\\OneDrive\\Desktop\\Demo Tests\\Dictionaries_Lambda_LINQ_Exercises\\01_Count_Chars_In_String\\01_Count_Chars_In_String.csproj": {}
+    "C:\\Users\\Maraya\\OneDrive\\Desktop\\QA_Advanced\\Dictionaries_Lambda_LINQ_Exercises\\01_Count_Chars_In_String\\01_Count_Chars_In_String.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maraya\\OneDrive\\Desktop\\Demo Tests\\Dictionaries_Lambda_LINQ_Exercises\\01_Count_Chars_In_String\\01_Count_Chars_In_String.csproj": {
+    "C:\\Users\\Maraya\\OneDrive\\Desktop\\QA_Advanced\\Dictionaries_Lambda_LINQ_Exercises\\01_Count_Chars_In_String\\01_Count_Chars_In_String.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maraya\\OneDrive\\Desktop\\Demo Tests\\Dictionaries_Lambda_LINQ_Exercises\\01_Count_Chars_In_String\\01_Count_Chars_In_String.csproj",
+        "projectUniqueName": "C:\\Users\\Maraya\\OneDrive\\Desktop\\QA_Advanced\\Dictionaries_Lambda_LINQ_Exercises\\01_Count_Chars_In_String\\01_Count_Chars_In_String.csproj",
         "projectName": "01_Count_Chars_In_String",
-        "projectPath": "C:\\Users\\Maraya\\OneDrive\\Desktop\\Demo Tests\\Dictionaries_Lambda_LINQ_Exercises\\01_Count_Chars_In_String\\01_Count_Chars_In_String.csproj",
+        "projectPath": "C:\\Users\\Maraya\\OneDrive\\Desktop\\QA_Advanced\\Dictionaries_Lambda_LINQ_Exercises\\01_Count_Chars_In_String\\01_Count_Chars_In_String.csproj",
         "packagesPath": "C:\\Users\\Maraya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maraya\\OneDrive\\Desktop\\Demo Tests\\Dictionaries_Lambda_LINQ_Exercises\\01_Count_Chars_In_String\\obj\\",
+        "outputPath": "C:\\Users\\Maraya\\OneDrive\\Desktop\\QA_Advanced\\Dictionaries_Lambda_LINQ_Exercises\\01_Count_Chars_In_String\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
