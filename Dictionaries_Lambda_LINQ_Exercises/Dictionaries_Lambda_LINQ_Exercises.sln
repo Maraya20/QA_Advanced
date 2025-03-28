@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Miner_Task", "02_Miner_Task\02_Miner_Task.csproj", "{8DC5F790-2CA2-4E48-ADD4-6AB103FDD90A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Count_Chars_In_String", "01_Count_Chars_In_String\01_Count_Chars_In_String.csproj", "{96565564-B40F-421A-9AB2-5294BFFE7244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DC5F790-2CA2-4E48-ADD4-6AB103FDD90A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC5F790-2CA2-4E48-ADD4-6AB103FDD90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC5F790-2CA2-4E48-ADD4-6AB103FDD90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC5F790-2CA2-4E48-ADD4-6AB103FDD90A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96565564-B40F-421A-9AB2-5294BFFE7244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96565564-B40F-421A-9AB2-5294BFFE7244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96565564-B40F-421A-9AB2-5294BFFE7244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96565564-B40F-421A-9AB2-5294BFFE7244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
